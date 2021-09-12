@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/b759e1ca18cc980304f082efac79e6eb/core-1.1.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/b759e1ca18cc980304f082efac79e6eb/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/b759e1ca18cc980304f082efac79e6eb/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/b759e1ca18cc980304f082efac79e6eb/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/url_launcher/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/b759e1ca18cc980304f082efac79e6eb/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    }
+]

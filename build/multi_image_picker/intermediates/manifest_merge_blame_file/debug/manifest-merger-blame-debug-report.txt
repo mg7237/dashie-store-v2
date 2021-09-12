@@ -1,0 +1,8 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.vitanov.multiimagepicker" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/packages/multi_image_picker/android/src/main/AndroidManifest.xml
+6
+7</manifest>

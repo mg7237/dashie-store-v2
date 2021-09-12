@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/b759e1ca18cc980304f082efac79e6eb/core-1.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/drawable-v21/abc_dialog_material_background.xml"
+    }
+]

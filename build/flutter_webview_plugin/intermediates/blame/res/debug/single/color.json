@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/manishgupta/AndroidStudioProjects/dashie 2.1/Mobile Source/Flutter-Store/build/flutter_webview_plugin/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/manishgupta/.gradle/caches/transforms-2/files-2.1/7e9b05b99b868798be54ccb4209d86a2/appcompat-1.1.0/res/color/abc_primary_text_material_light.xml"
+    }
+]
